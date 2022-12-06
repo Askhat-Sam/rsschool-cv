@@ -2,6 +2,8 @@
 
 ---
 
+![Photo](Photo.jpg)
+
 1. Name: Askhat Samuratov
 
 2. Phone: 87479537757. Email: askhat.sam@gmail.com
