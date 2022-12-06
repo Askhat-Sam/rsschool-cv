@@ -1,5 +1,7 @@
 #CV
 
+---
+
 1. Name: Askhat Samuratov
 
 2. Phone: 87479537757. Email: askhat.sam@gmail.com
@@ -10,6 +12,7 @@
 
 5. Example of code on Codewar for inverting array items:
 
+```
    function invert(array) {
    let array2=[];
    for (let i = 0; i < array.length; i++) {
@@ -21,8 +24,9 @@
    }
    return array2;
    }
+```
 
-6. Created project of healthy food service (https://omnifood-project1.netlify.app/). Tools used for this project: HTML5 и CSS. Wrote VBA script for inventory managent with user interface for our tool store. Also wrote VBA script for defining applicability of maintenance tasks for aircraft depending on thier configuration.
+6. Created project of healthy food service [https://omnifood-project1.netlify.app/]. Tools used for this project: HTML5 и CSS. Wrote VBA script for inventory managent with user interface for our tool store. Also wrote VBA script for defining applicability of maintenance tasks for aircraft depending on thier configuration.
 
 7. Finished "Build Responsive Real-World Websites with HTML and CSS" course on Udemy. Read "Head First JavaScript Programming" by Elisabeth Robson and Eric Freeman, "Head First HTML and CSS" by Elisabeth Robson and Eric Freeman. Currently taking another course on Udemy called "The Complete JavaScript Course 2023: From Zero to Expert!".
 
